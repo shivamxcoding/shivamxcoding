@@ -1,4 +1,4 @@
-![Preview](images/screenshot.png)
+![Preview](https://github.com/shivamxcoding/shivamxcoding/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
