@@ -1,4 +1,4 @@
-
+![Preview](images/screenshot.png)
 
 
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
